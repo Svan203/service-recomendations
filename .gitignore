@@ -1,0 +1,16 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/bin/
+backend/obj/
+
+# Editor and OS files
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
+
